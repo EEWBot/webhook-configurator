@@ -1,4 +1,4 @@
-# Discord Webhook Configurator
+# Webhook Configurator
 This is a test utility for Discord's WebHook.
 I made it for testing large-scale WebHook application.
 
